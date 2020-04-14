@@ -1,0 +1,23 @@
+{
+  "name": "footer-dgm",
+  "description": "",
+  "main": "footer-dgm.html",
+  "keywords": [
+    "datos.gob.mx",
+    "dgm",
+    "footer-dgm"
+  ],
+  "authors": [
+    "gus"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
